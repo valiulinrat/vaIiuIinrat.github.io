@@ -1,0 +1,32 @@
+.img-box{
+	column-count: 4;
+	column-gap: 10px;
+	width: 80%;
+	max-width: 1400px;
+	margin: auto;
+}
+.image{
+	max-width: 100%;
+	display: block;
+}
+.img_link{
+	display: block;
+	margin: 5px;
+	filter: ;
+}
+.img_link:hover{
+	
+}
+
+@font-face{
+	font-family: Montserrat;
+	src: url(../fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+body{
+font-family: Montserrat;
+background-color: grey;
+
+}
+h1{
+	text-align: center;
+}
